@@ -1,13 +1,13 @@
 // SPDX-License-Identifier: MIT
 
 /**
- * VladimirGav
- * GitHub Website: https://vladimirgav.github.io/
- * GitHub: https://github.com/VladimirGav
+ * For-sekret@mail.ru
+ * GitHub Website: https://Maks3528.github.io/
+ * GitHub: https://github.com/Maks3528
  */
 
 /**
- * It is example of a AirdropTokens of Contract from VladimirGav
+ * It is example of a AirdropTokens of Contract from For-sekret@mail.ru
  */
 
 pragma solidity >=0.8.19;
